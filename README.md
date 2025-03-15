@@ -36,6 +36,8 @@ I chose this project to gain hands-on experience in retail sales analysis, a cru
   - Analyzed profit margins, seasonal trends, and best-performing products.
   - Compared store performance based on total sales and total orders.
 
+![Project 1 Dashboard](Project%201%20Dashboard.png)    
+
 ## 5. Results
 
 ### Key Findings:
