@@ -41,11 +41,12 @@ I chose this project to gain hands-on experience in retail sales analysis, a cru
 ## 5. Results
 
 ### Key Findings:
-- iPhones contributed the highest revenue among all product categories.
-- Sales were highest in the USA, particularly in major cities like New York and Chicago.
-- The summer season recorded the highest sales volume.
-- Stores in premium locations had higher average transaction values.
-- Profitability varied significantly across different product categories.
+- Desktops lead sales, followed by smartphones and laptops, indicating strong demand in professional and consumer markets.
+- Mac Pro is the top revenue generator, with MacBook Pro models also contributing significantly.
+- Sales peak in July and November, suggesting seasonal demand spikes.
+- Consistent monthly sales trends indicate stable product demand throughout the year.
+- Some stores underperform, highlighting potential location-based inefficiencies.
+- USA and India drive the highest revenue, showcasing strong regional market presence.
 
 
 ## 7. Conclusion and Learnings
